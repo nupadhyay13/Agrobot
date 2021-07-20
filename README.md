@@ -16,3 +16,5 @@ There are two iterations of the model, with changes to the weeder mechanism, the
 2. [Iteration 2](https://drive.google.com/file/d/1l1-Gbaor1zvD6ojxcf1xRUYYEIRtzGpn/view?usp=sharing)
 
 The final design of the model is as shown
+
+![final](https://github.com/nupadhyay13/Agrobot/blob/main/final.png)
